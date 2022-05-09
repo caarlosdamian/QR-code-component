@@ -21,6 +21,8 @@ body {
 img {
     width: 288px;
     height: 288px;
+    border-radius: 10px;
+
 }
 
 .card-container {
